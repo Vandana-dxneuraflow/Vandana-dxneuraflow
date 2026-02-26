@@ -1,6 +1,6 @@
 # नमस्ते! I'm Vandana 👋
 
-### Founder & AI Systems Builder @ DXNeuraFlow
+### Founder & AI Systems Builder @ dxNeuraFlow
 
 I build **AI Operating Systems** for digital agencies —
 one unified brain that connects growth, leads, and client
